@@ -1,0 +1,13 @@
+{
+  "name": "subgrab",
+  "version": "6.0.0",
+  "description": "Free YouTube subtitle downloader - SRT, VTT, TXT",
+  "type": "module",
+  "main": "subgrab-v6.js",
+  "scripts": {
+    "start": "node subgrab-v6.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
